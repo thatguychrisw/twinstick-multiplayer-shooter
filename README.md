@@ -29,20 +29,20 @@
 - Distinct AI enemy behaviors — encourages pattern recognition.
 - AI can target players based on the group makeup, weapon selection, etc...
 
-#### Weapons
+### Weapons
 
-##### Close Combat Types (for players who want to smash things)
+#### Close Combat Types (for players who want to smash things)
 - **Sword**, increasing damage on chained / combo attacks, defensive attack with swiping direction AOE attack with push-back
 - **Claw / Animal Suit**, Rolls into enemies, bounces off walls, "charge first ask questions later"
 
-##### High Risk / High Reward Combat Types (for players who want a thrill)
+#### High Risk / High Reward Combat Types (for players who want a thrill)
 - **Dual Pistols**, high mobility, fast rate of fire, jumps into fights and out just as easily
 
-##### Commanders Types (for players who want to focus on the battlefield — team enhancement)
+#### Commanders Types (for players who want to focus on the battlefield — team enhancement)
 - **Big ass stationary gun**, high-damage, limited mobility
 - **Augmented Boomerang**, provides team enhancements, high mobility, damage based on mobility
 
-##### Unclassified
+#### Unclassified
 - **Chakram**, can throw chakrams that circle the player, medium mobility
 - **Shotgun, Mortar, Grenade / Mine**, (needs more definition)
 - **Builder / Engineer**, since the terrain can change, maybe a weapon type that can alter the terrain may be neat
