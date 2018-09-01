@@ -3,6 +3,7 @@
 ### Setting / Explanation of Gameplay
 
 - Multi-player only
+- Should mostly procedurally generated; re-playability
 - Player connect with one another automatically forming a group in a lobby
 - Players are shown in a circle on a platform
 - Game count downs like a game show and begins
@@ -14,7 +15,10 @@
 - Each round has the player fighting AI enemies with terrain mutations and obstacles
 - Each round may possess an opportunity to affect the boss at the end of a level
 - After `X` rounds the players fight a boss
-- This style of level continues for `X` levels
+- This style of level continues for `X` levels until a final encounter with the announcer takes place
+- The announcer encounter is completely randomized except for the announcer himself
+- The announcer can create anything in the game
+- The announcer encounter should take `3` rounds?
 
 ### Control Scheme
 
