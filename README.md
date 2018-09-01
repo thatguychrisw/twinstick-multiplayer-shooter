@@ -1,4 +1,6 @@
 ## Top Down, Procedurally Generated, Multi-player Twin-stick Shooter
+[Wiki](https://github.com/thatguychrisw/twinstick-multiplayer-shooter/wiki)
+
 
 ### Setting / Explanation of Gameplay
 
@@ -30,8 +32,10 @@
 
 ### Ideas
 
+- [Game Graphic Style Ideas](https://github.com/thatguychrisw/twinstick-multiplayer-shooter/wiki/Game-Graphic-Style-Ideas)
 - Distinct AI enemy behaviors — encourages pattern recognition.
 - AI can target players based on the group makeup, weapon selection, etc...
+- Game name: **Showdown** — play on words since the final encounter is with the announcer
 
 ### Weapons
 
