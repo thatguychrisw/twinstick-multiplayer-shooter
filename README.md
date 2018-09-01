@@ -1,6 +1,6 @@
 ## Top Down, Procedurally Generated, Multi-player Twin-stick Shooter
 
-###Setting / Explanation of Gameplay
+### Setting / Explanation of Gameplay
 
 - Multi-player only
 - Player connect with one another automatically forming a group in a lobby
@@ -16,7 +16,7 @@
 - After `X` rounds the players fight a boss
 - This style of level continues for `X` levels
 
-###Control Scheme
+### Control Scheme
 
 - **Ps4/Xbox/console control set**
 - Left axis - **movement**
@@ -24,21 +24,21 @@
 - Top paddle/trigger - **combines for different shot types and directions**
 - Buttons - **utility options different for each type of weapon**
 
-###Ideas
+### Ideas
 
 - Distinct AI enemy behaviors — encourages pattern recognition.
 - AI can target players based on the group makeup, weapon selection, etc...
 
-####Weapons
+#### Weapons
 
-#####Close Combat Types (for players who want to smash things)
+##### Close Combat Types (for players who want to smash things)
 - **Sword**, increasing damage on chained / combo attacks, defensive attack with swiping direction AOE attack with push-back
 - **Claw / Animal Suit**, Rolls into enemies, bounces off walls, "charge first ask questions later"
 
-#####High Risk / High Reward Combat Types (for players who want a thrill)
+##### High Risk / High Reward Combat Types (for players who want a thrill)
 - **Dual Pistols**, high mobility, fast rate of fire, jumps into fights and out just as easily
 
-#####Commanders Types (for players who want to focus on the battlefield — team enhancement)
+##### Commanders Types (for players who want to focus on the battlefield — team enhancement)
 - **Big ass stationary gun**, high-damage, limited mobility
 - **Augmented Boomerang**, provides team enhancements, high mobility, damage based on mobility
 
